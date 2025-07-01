@@ -1,0 +1,11 @@
+template_id,template_name,default_duration_days,task_count,required_roles
+TEMPLATE-001,5G Tower Installation,2,5,"Technician, Engineer"
+TEMPLATE-002,Fiber Trenching,13,3,"Engineer, Project Manager"
+TEMPLATE-003,Site Acceptance Test,2,3,"Engineer, QA"
+TEMPLATE-004,Fiber Trenching,10,3,"Technician, Project Manager"
+TEMPLATE-005,RF Optimization,8,4,"QA, Project Manager"
+TEMPLATE-006,Power Backup Setup,14,3,"Technician, Project Manager"
+TEMPLATE-007,Site Acceptance Test,7,5,"Technician, Engineer"
+TEMPLATE-008,Power Backup Setup,3,3,"QA, Engineer"
+TEMPLATE-009,Power Backup Setup,7,5,"Engineer, Project Manager"
+TEMPLATE-010,Site Acceptance Test,10,3,"QA, Engineer"
